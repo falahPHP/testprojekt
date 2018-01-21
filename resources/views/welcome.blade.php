@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Falah habe gemacht Projekt also geht los mit laravel
+                    ich habe geschaft mein erste laravel projekt
                 </div>
 
                 <div class="links">
