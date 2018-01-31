@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    ich habe geschaft mein erste laravel projekt
+                    laravel projekt
                 </div>
 
                 <div class="links">
